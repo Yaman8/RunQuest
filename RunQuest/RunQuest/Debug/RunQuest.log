@@ -1,0 +1,22 @@
+﻿  Character.cpp
+E:\RunQuest\RunQuest\RunQuest\RunQuest\Character.cpp(139,60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Intro.cpp
+E:\RunQuest\RunQuest\RunQuest\RunQuest\Intro.cpp(21,25): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+E:\RunQuest\RunQuest\RunQuest\RunQuest\Intro.cpp(22,25): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  main.cpp
+  Mode.cpp
+E:\RunQuest\RunQuest\RunQuest\RunQuest\Mode.cpp(77,17): warning C4551: function call missing argument list
+  Over.cpp
+E:\RunQuest\RunQuest\RunQuest\RunQuest\Over.cpp(54,13): warning C4551: function call missing argument list
+  Sound.cpp
+  Start.cpp
+  Generating Code...
+  RunQuest.vcxproj -> E:\RunQuest\RunQuest\RunQuest\Debug\RunQuest.exe
